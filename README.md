@@ -25,7 +25,8 @@ cypher x bot deployment
 },
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "tuu the owner gedifa won't allow you to 
+heve access to her all whatssap chats from now
     },
     {
       "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
@@ -37,4 +38,5 @@ cypher x bot deployment
       "url": "https://whatssap.com/clhuang/heroku-buildpack-webp-binaries.git"
     }.     100 percent complited
   ]
-}.     hacking gedifa done successfully
+}.     hacking gedifa deactivated
+     
